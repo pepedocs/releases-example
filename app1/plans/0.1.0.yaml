@@ -1,6 +1,6 @@
 kind: ReleasePlan
 metadata:
-  name: app1
+  name: app1-v0.1.0
   version: 0.1.0
   repository: https://github.com/pepedocs/app1.git
 spec:
