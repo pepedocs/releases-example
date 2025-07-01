@@ -7,8 +7,5 @@ spec:
   plan: 
     - name: app1-v0.1.0
       version: 0.1.0
-status:
-  - name: PlanStarted
-    value: True
-    timestamp: "2025-07-01 19:58:00 +1000"
+
 
