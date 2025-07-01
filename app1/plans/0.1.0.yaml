@@ -1,0 +1,16 @@
+kind: ReleasePlan
+metadata:
+  name: app1
+  version: 0.1.0
+  repository: https://github.com/pepedocs/app1.git
+spec:
+  completion:
+    beforeDate: 07112025
+  app: app1
+  targetVersion: 0.1.0
+  conditions:
+    beforeReleasePlans:
+      - name: db1
+        version: 10.1
+        reason: "app1 0.1.0 is not compatible with db1 10.1"
+  
