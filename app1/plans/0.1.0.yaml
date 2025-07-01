@@ -12,5 +12,6 @@ spec:
     beforeReleasePlans:
       - name: db1
         version: 10.1
-        reason: "app1 0.1.0 is not compatible with db1 10.1"
+        reason: "app1 0.1.0 is not compatible with db1 10.0"
+
   
