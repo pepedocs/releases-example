@@ -10,4 +10,5 @@ spec:
 status:
   - name: PlanStarted
     value: True
-    
+    timestamp: "2025-07-01 19:58:00 +1000"
+
